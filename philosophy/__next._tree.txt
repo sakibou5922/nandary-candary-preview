@@ -7,4 +7,4 @@
 :HL["/nandary-candary-preview/_next/static/chunks/1jku-l2wtxmv6.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"philosophy","h":64,"c":"$Q2"}]]
-0:{"b":"6JC2NWkqnPqSkwRGBIYvT","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"a52ClB1Gcl9JET4207Ed9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
